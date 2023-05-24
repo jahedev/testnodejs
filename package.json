@@ -1,0 +1,11 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "Testing nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Jahed",
+  "license": "ISC"
+}
